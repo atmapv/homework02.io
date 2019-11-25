@@ -21,33 +21,34 @@ body {
     font-family: 'Arial', 'Helvetica Nesue', Helvetica, sans-serif;
     }
 
-
-   
     .header{
     overflow: hidden;
     height: 50px;
     background-color: #ffffff;
-    padding: 20px 10px;
     border-bottom: 2px solid#cccccc;
     }
     
     .header a{
     color: #777777;
-    text-align: center;
+    text-align: right;
     padding: 12px;
     text-decoration: none;
     font-size: 18px; 
     line-height: 25px;
     }
 
+.nav-link{
+  color: #777777;
+  text-align: right;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px; 
+  line-height: 25px;
+  }
+
 .name{
     font-size: 2em;
-    margin-left: 166px;
-    margin-right: 100px;
-    position: absolute;
-    line-height: 50px;
-    top: 0px;
-    text-align: center;
+    margin-right: 500px;
     padding: 20px;
     width: 280px;
     height: 97px;
